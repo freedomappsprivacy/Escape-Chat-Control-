@@ -8,16 +8,40 @@
 
 <br>
 
+
+
 ![Focus](https://img.shields.io/badge/focus-EU%20Chat%20Control-critical?style=flat-square)
+
+
+
+
 ![Stance](https://img.shields.io/badge/stance-evidence--based-blueviolet?style=flat-square)
+
+
+
+
 ![Level](https://img.shields.io/badge/level-beginner%20friendly-brightgreen?style=flat-square)
+
+
+
+
 ![Tools](https://img.shields.io/badge/tools-FOSS%20%26%20privacy%20first-blue?style=flat-square)
+
+
+
+
 ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey?style=flat-square)
+
+
+
+
 ![Updated](https://img.shields.io/badge/updated-July%202026-informational?style=flat-square)
+
+
 
 <br>
 
-**Three parts:** &nbsp; 🧠 [Part 1: What it is & why it fails](#-part-1-what-chat-control-is-and-why-the-experts-say-it-doesnt-work) &nbsp;•&nbsp; 🔐 [Part 2: Adults, reclaim privacy](#-part-2-for-adults-reclaim-your-privacy) &nbsp;•&nbsp; 👨‍👩‍👧 [Part 3: Parents, protect your kids](#-part-3-for-parents-protect-your-kids-yourself)
+**Three parts:** &nbsp; 🧠 [Part 1: What it is & why it fails](#-part-1-what-chat-control-is-and-why-the-experts-say-it-doesnt-work) &nbsp;•&nbsp; 🔐 [Part 2: Adults, reclaim privacy](#-part-2-for-adults-reclaim-your-privacy) &nbsp;•&nbsp; 👪 [Part 3: Parents, protect your kids](#-part-3-for-parents-protect-your-kids-yourself)
 
 </div>
 
@@ -135,7 +159,7 @@ Everything above runs cleanly on **GrapheneOS** and **Linux**. On GrapheneOS: Mo
 
 ---
 
-# 👨‍👩‍👧 Part 3: For parents, protect your kids yourself
+# 👪 Part 3: For parents, protect your kids yourself
 
 **The core principle:** children, especially under-16s, should **not** have the unrestricted, adult internet. But the way to achieve that is **targeted protection at the level of the family, the device, and the network**, *not* a government scanning every citizen's private messages. **The responsibility, and the control, belongs to parents.** This is exactly the model experts and the EU Parliament favour: protect the child directly, don't surveil the whole population.
 
